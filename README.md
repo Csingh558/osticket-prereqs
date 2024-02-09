@@ -83,6 +83,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - MySQL Username: root.
    - MySQL Password: Password1.
    - Click "Install Now!" to complete the setup.
-
+   - Log into the help desk page to see if it works: http://localhost/osTicket/scp/login.php
 
 
