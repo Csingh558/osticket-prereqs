@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisite Software</h2>
 
-- All Download Files: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+- All Download Files: https://drive.google.com/drive/folders/1mEqQ_2mQjnj1UpAKXUKOVyPW2h7206Gg?usp=sharing
 - php-7.3.8-nts-Win32-VC15-x86.zip
 - HeidiSQL_12.3.0.6589_Setup.exe
 - mysql-5.5.62-win32.msi
