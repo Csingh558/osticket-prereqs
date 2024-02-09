@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisite Software</h2>
 
 - All Download Files: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 - php-7.3.8-nts-Win32-VC15-x86.zip
